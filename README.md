@@ -2,8 +2,10 @@
 
 I'm Thibault, I'm a mobile developer who worked for startups in Iceland and Australia. Nowadays, I mostly do Android development, but I had a crack at Backend development recently with Go, kTor and Spring. I also do iOS development in my spare time and publish cool things on Github.
 
-![Metrics](https://github.com/Tibolte/Tibolte/blob/main/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/Tibolte)
 
+<!-- ![Metrics](https://github.com/Tibolte/Tibolte/blob/main/github-metrics.svg)
+ -->
 <!--
 **Tibolte/Tibolte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
