@@ -1,6 +1,6 @@
-### Hi there 👋
+### G'day 👋
 
-I'm Thibault, I'm a mobile developer who worked for startups in Iceland and Australia. Nowadays, I mostly do Android development, but I had a crack at Backend development recently with Go, kTor and Spring. I also do iOS development in my spare time and publish cool things on Github.
+My name's Thibault, I'm a mobile developer who worked for startups in Iceland and Australia. Nowadays, I mostly do heaps of Android development, but I sometimes have a crack at Backend development with kTor and Spring. I also play with iOS development in my spare time and publish cool things on Github.
 
 [![Tibolte's GitHub stats](https://github-readme-stats.vercel.app/api?username=tibolte&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
